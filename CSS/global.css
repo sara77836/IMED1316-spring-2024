@@ -1,6 +1,14 @@
 /*color*/
 /* 
-60%  of #2657D9 - dominant
-30% of #4E7CD7 - secondary
-10% of #43A8BC - accent
+60%  of #43A8BC - dominant
+30% of #436BBC - secondary
+10% of #43BC94 - accent
 */
+
+:root {
+
+--dominantColor: #43A8BC; /* var(--dominantColor) !important; */
+--secondaryColor: #436BBC; /* var(--secondaryColor) !important; */
+--accentColor: #43BC94; /* var(--accentColor) !important; */
+
+}
