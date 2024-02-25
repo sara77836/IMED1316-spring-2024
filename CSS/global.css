@@ -6,11 +6,13 @@
 */
 
 :root {
+/* var(--dominantColor) !important; */
+--dominantColor: #c126cf; 
 
---dominantColor: #43A8BC; /* var(--dominantColor) !important; */
+/* var(--secondaryColor) !important; */
+--secondaryColor: #436BBC; 
 
---secondaryColor: #436BBC; /* var(--secondaryColor) !important; */
-
---accentColor: #43BC94; /* var(--accentColor) !important; */
+/* var(--accentColor) !important; */
+--accentColor: #43BC94; 
 
 }
