@@ -1,3 +1,16 @@
+.fa-row {
+    background-color: blue; 
+}
+
+.first-paragraph-row {
+    background-color: cyan;
+}
+
+.custom-color{
+    background-color: #43a8bc;
+    height: 200px;
+}
+
 @import "global.css";
 @import "main.css" 
 
