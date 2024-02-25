@@ -8,7 +8,9 @@
 :root {
 
 --dominantColor: #43A8BC; /* var(--dominantColor) !important; */
+
 --secondaryColor: #436BBC; /* var(--secondaryColor) !important; */
+
 --accentColor: #43BC94; /* var(--accentColor) !important; */
 
 }
