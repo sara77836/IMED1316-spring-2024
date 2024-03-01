@@ -31,4 +31,3 @@ var $grid = $(".grid").isotope({
       $(this).addClass("is-checked");
     });
   });
-  
