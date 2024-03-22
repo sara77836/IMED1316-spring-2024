@@ -26,3 +26,8 @@ h1,h2 {
     font-family: "Protest Revolution", sans-serif;
     color: var(--dominantColor) !important;
 }
+
+.material-symbols-outlined, 
+.material-symbols-outlined a, {
+
+}
