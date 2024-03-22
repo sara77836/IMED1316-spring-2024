@@ -48,3 +48,9 @@ h1,h2 {
     text-decoration: underline;
     text-decoration-thickness: 3px;
 }
+
+.footer-row {
+    background-color: var(--dominantColor) !important;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
