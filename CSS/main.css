@@ -1,5 +1,21 @@
-.custom-color{
-    background-color: var(--dominantColor) !important;
-    height: 200px;
+html {
+    scroll-behavior: smooth;
 }
 
+body {
+    background-color: white;
+}
+
+h1,h2 {
+    color: ;var(--accentColor) !important;
+}
+
+.top-logo {
+    height: auto; 
+    font-weight: bold;
+    color: var(--dominantColor) !important;
+    font-size: 55px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    background-color: white;
+}
