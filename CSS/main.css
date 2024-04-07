@@ -91,6 +91,17 @@ blockquote::backdrop {
     top: -20px;
     color: var(--accentColor) !important;
 }
+
+blockquote cite {
+    color: var(--accentColor) !important;
+    font-size: 14px;
+    display: block;
+    margin-top: 5px;
+}
+
+blockquote cite::before {
+    content: "\2014 \2009";
+}
 /* ADD THE CLASS .custom-toggler TO THE HAMBURGUER MENU*/
 /*under main.css added*/
 
