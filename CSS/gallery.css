@@ -1,2 +1,9 @@
 @import "global.css";
 @import "main.css";
+
+
+#blinn-gallery {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+}
