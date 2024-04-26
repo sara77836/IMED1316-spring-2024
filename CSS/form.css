@@ -15,5 +15,26 @@
 
 .web-form div {
     margin-top: 10px;
+
+}
+
+#age {
+    width: 100px;
+
+}
+
+#date {
+    width: 150px;
+}
+
+#custom {
+    margin-top: 5px;
+    display: none;
+}
+
+.radio, .checkbox {
+    width: 20px !important;
+    height: 20px !important;
     
+
 }
