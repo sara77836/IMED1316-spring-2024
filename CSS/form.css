@@ -12,3 +12,8 @@
     box-shadow:  var(--boxShadow) !important;
 
 }
+
+.web-form div {
+    margin-top: 10px;
+    
+}
