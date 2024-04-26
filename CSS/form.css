@@ -20,7 +20,6 @@
 
 #age {
     width: 100px;
-
 }
 
 #date {
@@ -35,6 +34,20 @@
 .radio, .checkbox {
     width: 20px !important;
     height: 20px !important;
-    
+}
 
+#about-you {
+    width: 70%;
+    height: 200px;
+}
+
+.submit {
+    border-color: var(--secondaryColor) !important;
+    background-color: var(--secondaryColor) !important;
+    color: #ffffff
+}
+
+.submit:hover {
+    background-color: white;
+    color: var(--secondaryColor) !important;
 }
