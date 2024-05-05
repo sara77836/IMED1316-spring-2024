@@ -23,7 +23,7 @@ h1,h2 {
 #top-logo-small {
 
     font-size: 29px;
-    font-family: "Protest Revolution", sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     color: var(--dominantColor) !important;
 }
 
