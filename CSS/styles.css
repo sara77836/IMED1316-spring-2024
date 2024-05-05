@@ -84,3 +84,7 @@
 }
 }
 
+.btn-isotope, .btn-isotope:hover {
+    color: white;
+    border-radius: 0px;   
+}
