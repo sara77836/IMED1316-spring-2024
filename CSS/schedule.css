@@ -53,6 +53,6 @@
     background-color: #f3f3f3;
 }
 
-.content-table tbody tr: last-of-type {
+.content-table tbody tr:last-of-type {
     border-bottom: 3px solid var(--dominantColor) !important;
 }
