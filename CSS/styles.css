@@ -103,3 +103,7 @@
     margin: 15px;
     height: 350px;    
 }
+
+.card a {
+    color: #020230;
+}
