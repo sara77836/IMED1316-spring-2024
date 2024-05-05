@@ -49,6 +49,13 @@
     padding-right: 18px;
 }
 
+@media(max-width:900px){
+    .first-paragraph-img {
+        position: relative;
+        float: none;
+        padding-right: 0%;
+}
+}
 .second-paragraph-div {
     position: relative;
     background-color: #fffffd;
@@ -69,5 +76,11 @@
     padding-left: 18px;
 }
 
-
+@media(max-width:900px){
+    .second-paragraph-img {
+        position: relative;
+        float: none;
+        padding-left: 0%;
+}
+}
 
