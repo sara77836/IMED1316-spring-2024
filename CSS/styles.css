@@ -98,3 +98,8 @@
     clip-path: circle(50% at 50% 50%);
     border-radius: 50%;
 }
+
+.card {
+    margin: 15px;
+    height: 350px;    
+}
