@@ -51,7 +51,7 @@
 
 @media(max-width:900px){
     .first-paragraph-img {
-        position: relative;
+        width: 100%;
         float: none;
         padding-right: 0%;
 }
@@ -87,4 +87,13 @@
 .btn-isotope, .btn-isotope:hover {
     color: white;
     border-radius: 0px;   
+}
+
+.cropped {
+    width: 200px;
+    height: 200px;
+    margin-top: 15px;
+    border: 10px solid var(--secondaryColor) !important;
+    margin: auto;
+    clip-path: circle(50% at 50% 50%);
 }
